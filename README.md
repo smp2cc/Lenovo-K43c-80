@@ -1,6 +1,9 @@
 # Lenovo-K43c-80
 
 Lenovo K43c-80
+i5-8250U, 8G, 256G SAMSUNG Nvme + 1T Seagate SATA HD, Boardcom 4532 
+10.15.4, CLOVER 5112
 
-For installation and troubleshooting please go to the guide:
-https://www.tonymacx86.com/threads/guide-lenovo-v330-15ikb-using-clover-uefi-hotpatch.265841/
+触摸板只有传统单指操作，无手势；
+SD读卡器未工作；
+其他正常；
